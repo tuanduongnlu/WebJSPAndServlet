@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/admin/Login.jsp=UTF-8
+encoding//src/AdminServlet/AddProduct.java=UTF-8
+encoding//src/AdminServlet/EditProduct.java=UTF-8
+encoding//src/JDBC/ProductDAO.java=UTF-8
